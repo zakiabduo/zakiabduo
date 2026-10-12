@@ -1,59 +1,51 @@
-<div align="center">
-<img src="./assets/banner.svg" width="100%" alt="Abdul Rehman Zaki — Full-Stack Developer" />
-</div>
+Hi, I'm Abdul Rehman Zaki 👋
+Software Engineer | AI/ML Trainee | Full-Stack Developer
+I'm a Software Engineering graduate from Pakistan with a strong interest in building practical software solutions and exploring the potential of Artificial Intelligence and Machine Learning.
+Currently, I'm learning and strengthening my AI/ML skills at NETSOL Technologies Pakistan, focusing on Python programming, data analysis, mathematics for machine learning, and fundamental machine learning algorithms.
+With a background in full-stack web development, I enjoy combining problem-solving, clean code, and user-centered design to build useful and maintainable applications.
+About Me
+- 🎓 Background in Software Engineering
+- 🤖 Currently learning Artificial Intelligence and Machine Learning at NETSOL Technologies Pakistan
+- 💻 Experienced in developing web applications using the MERN stack
+- 🐍 Exploring Python, data analysis, and machine learning algorithms
+- 🎨 Interested in UI/UX design and creating user-friendly digital experiences
+- 📚 Passionate about continuous learning, collaboration, and sharing knowledge
+- 🎯 Working towards becoming an AI/ML Engineer
+Technical Skills
+Programming Languages
+Python JavaScript HTML CSS
+AI & Machine Learning
+NumPy Pandas Matplotlib Seaborn Scikit-learn
+Web Development
+MongoDB Express.js React.js Node.js REST APIs
+Tools & Technologies
+Git GitHub VS Code Jupyter Notebook Anaconda
+Design
+UI/UX Design Responsive Design User-Centered Design
+What I'm Learning
+My current learning journey focuses on developing a strong foundation in AI and machine learning through hands-on practice.
+- Python fundamentals and object-oriented programming
+- Mathematics, probability, and statistics for machine learning
+- Data cleaning, preprocessing, and exploratory data analysis
+- Data visualization and feature engineering
+- Supervised learning algorithms, including K-Nearest Neighbors, Naive Bayes, and Linear Regression
+- Unsupervised learning, including K-Means clustering
+- Model evaluation, cross-validation, and performance metrics
+- Applying programming and analytical skills to practical projects
+Featured Projects
+I use this GitHub profile to document my learning journey, share projects, and build a portfolio of practical software engineering and AI/ML work.
+- AI/ML Practice Repository: Python exercises, NumPy operations, data analysis, and machine learning implementations.
+- Full-Stack Web Applications: Web projects developed using MongoDB, Express.js, React.js, and Node.js.
+- Data Analysis Projects: Exploratory data analysis, data visualization, preprocessing, and insights from datasets.
+- Software Engineering Projects: Applications demonstrating object-oriented programming, problem-solving, and maintainable code.
+Explore my repositories to see my progress and implementations.
+GitHub Statistics
+<!-- GitHub profile statistics for zakiabduo -->
 
-<br/>
 
-<table width="100%">
-<tr>
-<td width="120"><sub><b>ROLE</b></sub></td>
-<td>Full-Stack Web Developer</td>
-</tr>
-<tr>
-<td><sub><b>STACK</b></sub></td>
-<td>React, Redux, Node.js, Express, MongoDB, PostgreSQL, Tailwind</td>
-</tr>
-<tr>
-<td><sub><b>FOCUS</b></sub></td>
-<td>Building fast, functional products end to end — clean code, clean UI, no wasted motion</td>
-</tr>
-<tr>
-<td><sub><b>NOW</b></sub></td>
-<td>Sharpening backend architecture and API design</td>
-</tr>
-<tr>
-<td><sub><b>CONTACT</b></sub></td>
-<td><a href="mailto:zakiabdulrehman4@gmail.com">zakiabdulrehman4@gmail.com</a> &nbsp;&#183;&nbsp; <a href="https://linkedin.com/in/abdulrehman-zaki-3b499b255">LinkedIn</a></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/-JAVASCRIPT-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-REACT-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-NODE.JS-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-EXPRESS-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-MONGODB-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-POSTGRESQL-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-PYTHON-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/> <img src="https://img.shields.io/badge/-C%2B%2B-12141C?style=flat-square&labelColor=12141C&color=6C7BFF" height="26"/>
-
-<br/><br/>
-
-<hr style="border:none;height:1px;background-color:#2A2D3A;">
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=zakiabduo&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C7BFF&icon_color=6C7BFF&text_color=8A8D9F&hide_rank=true"/>
-</td>
-<td width="45%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiabduo&layout=compact&hide_border=true&bg_color=00000000&title_color=6C7BFF&text_color=8A8D9F&langs_count=6"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zakiabduo&hide_border=true&bg_color=00000000&color=8A8D9F&line=6C7BFF&point=E8E6DF&area=false&hide_title=true"/>
-
-<br/>
-
-<hr style="border:none;height:1px;background-color:#2A2D3A;">
-
-<br/>
-
-<sub>zakiabduo &nbsp;&#183;&nbsp; built one commit at a time</sub>
+Let's Connect
+I'm always interested in connecting with developers, learning from experienced professionals, collaborating on meaningful projects, and exploring opportunities in software engineering and AI/ML.
+- LinkedIn: Connect with me on LinkedIn
+- Portfolio: Visit My Portfolio
+- GitHub: Explore My Repositories
+"Learn continuously. Build thoughtfully. Improve consistently."

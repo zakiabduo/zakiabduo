@@ -1,51 +1,103 @@
-Hi, I'm Abdul Rehman Zaki 👋
-Software Engineer | AI/ML Trainee | Full-Stack Developer
-I'm a Software Engineering graduate from Pakistan with a strong interest in building practical software solutions and exploring the potential of Artificial Intelligence and Machine Learning.
-Currently, I'm learning and strengthening my AI/ML skills at NETSOL Technologies Pakistan, focusing on Python programming, data analysis, mathematics for machine learning, and fundamental machine learning algorithms.
-With a background in full-stack web development, I enjoy combining problem-solving, clean code, and user-centered design to build useful and maintainable applications.
-About Me
-- 🎓 Background in Software Engineering
-- 🤖 Currently learning Artificial Intelligence and Machine Learning at NETSOL Technologies Pakistan
-- 💻 Experienced in developing web applications using the MERN stack
-- 🐍 Exploring Python, data analysis, and machine learning algorithms
-- 🎨 Interested in UI/UX design and creating user-friendly digital experiences
-- 📚 Passionate about continuous learning, collaboration, and sharing knowledge
-- 🎯 Working towards becoming an AI/ML Engineer
-Technical Skills
-Programming Languages
-Python JavaScript HTML CSS
-AI & Machine Learning
-NumPy Pandas Matplotlib Seaborn Scikit-learn
-Web Development
-MongoDB Express.js React.js Node.js REST APIs
-Tools & Technologies
-Git GitHub VS Code Jupyter Notebook Anaconda
-Design
-UI/UX Design Responsive Design User-Centered Design
-What I'm Learning
-My current learning journey focuses on developing a strong foundation in AI and machine learning through hands-on practice.
+<div align="center">
+
+# Abdul Rehman Zaki
+
+### Software Engineer · AI/ML Trainee · Full-Stack Developer
+
+<a href="https://abdulrehman-zaki.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio">
+</a>
+<a href="https://github.com/zakiabduo" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-zakiabduo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;Learning+AI+%26+Machine+Learning;Full-Stack+Web+Development;Always+learning.+Always+building." alt="Animated introduction">
+
+</div>
+
+---
+
+## About Me
+
+I'm a Software Engineering graduate from Pakistan interested in building practical software solutions and exploring Artificial Intelligence and Machine Learning.
+
+I'm currently developing my AI/ML foundation at **NETSOL Technologies Pakistan**, with a focus on Python, data analysis, mathematics for machine learning, and core ML algorithms. My background in full-stack development helps me approach problems with both engineering discipline and user experience in mind.
+
+- 🤖 Learning AI/ML through hands-on practice and projects
+- 💻 Building web applications with the MERN stack
+- 📊 Exploring data analysis, visualization, and machine learning
+- 🎨 Interested in clean UI/UX and accessible, responsive design
+- 🌱 Working toward becoming an AI/ML Engineer
+
+## Tech Stack
+
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"></a>
+
+<br>
+
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+
+</div>
+
+## Current Learning Focus
+
 - Python fundamentals and object-oriented programming
-- Mathematics, probability, and statistics for machine learning
+- Probability, statistics, and mathematics for ML
 - Data cleaning, preprocessing, and exploratory data analysis
-- Data visualization and feature engineering
-- Supervised learning algorithms, including K-Nearest Neighbors, Naive Bayes, and Linear Regression
-- Unsupervised learning, including K-Means clustering
+- Supervised learning: KNN, Naive Bayes, and Linear Regression
+- Unsupervised learning: K-Means clustering
 - Model evaluation, cross-validation, and performance metrics
-- Applying programming and analytical skills to practical projects
-Featured Projects
-I use this GitHub profile to document my learning journey, share projects, and build a portfolio of practical software engineering and AI/ML work.
-- AI/ML Practice Repository: Python exercises, NumPy operations, data analysis, and machine learning implementations.
-- Full-Stack Web Applications: Web projects developed using MongoDB, Express.js, React.js, and Node.js.
-- Data Analysis Projects: Exploratory data analysis, data visualization, preprocessing, and insights from datasets.
-- Software Engineering Projects: Applications demonstrating object-oriented programming, problem-solving, and maintainable code.
-Explore my repositories to see my progress and implementations.
-GitHub Statistics
-<!-- GitHub profile statistics for zakiabduo -->
 
+## Projects & Practice
 
-Let's Connect
-I'm always interested in connecting with developers, learning from experienced professionals, collaborating on meaningful projects, and exploring opportunities in software engineering and AI/ML.
-- LinkedIn: Connect with me on LinkedIn
-- Portfolio: Visit My Portfolio
-- GitHub: Explore My Repositories
-"Learn continuously. Build thoughtfully. Improve consistently."
+- **AI/ML Practice:** Python exercises, NumPy, data analysis, and machine learning implementations.
+- **Data Analysis:** Exploratory data analysis, preprocessing, and visualization.
+- **Full-Stack Applications:** Web applications built with the MERN stack.
+- **Software Engineering:** Object-oriented programming, problem-solving, and maintainable code.
+
+Explore my repositories for current work and learning projects.
+
+## GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/zakiabduo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zakiabduo&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
+</a>
+<a href="https://github.com/zakiabduo">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiabduo&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
+</a>
+
+<br>
+
+<a href="https://github.com/zakiabduo?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+<a href="https://abdulrehman-zaki.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/zakiabduo" target="_blank"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+<br><br>
+
+*Learn continuously. Build thoughtfully. Improve consistently.*
+
+</div>
